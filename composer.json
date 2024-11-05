@@ -1,0 +1,21 @@
+{
+    "name": "mjhosawa/mondayapi-php",
+    "description": "Monday API - A simple Monday API v2 package for PHP",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "7.9.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jhosawa\\Monday\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammed Jhosawa",
+            "email": "jhosawamohammed@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
